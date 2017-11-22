@@ -33,15 +33,15 @@
     },
 
     "dependencies": {
-        "phantomjs": "~2.1.7"
+        "phantomjs-prebuilt": "~2.1.7"
     },
 
     "devDependencies": {
-        "grunt": "~0.4.0",
-        "grunt-contrib-jshint": "~0.2.0",
-        "grunt-contrib-nodeunit": "~0.1.2",
-        "grunt-contrib-clean": "~0.4.0",
-        "pngjs": "~0.4.0"
+        "grunt": "~1.0.1",
+        "grunt-contrib-jshint": "~1.1.0",
+        "grunt-contrib-nodeunit": "~1.0.0",
+        "grunt-contrib-clean": "~1.1.0",
+        "pngjs": "~3.3.1"
     },
 
     "peerDependencies": {
